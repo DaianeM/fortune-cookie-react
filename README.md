@@ -1,1 +1,1 @@
-# Fortune Cookie React
+# Fortune Cookie React - exemplo de utilização de Class Component
