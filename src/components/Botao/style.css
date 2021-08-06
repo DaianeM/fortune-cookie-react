@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Poppins:ital,wght@0,400;1,100&display=swap');
 
+button {
+    padding: 5px 10px;
+    border: 1px solid #C65102;
+    border-radius: 5px;
+    cursor: pointer;
+}
 .textoBotao {
     font-family: 'Poppins', sans-serif;
+    color: #C65102;
 }
