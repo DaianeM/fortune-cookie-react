@@ -5,6 +5,5 @@
 
 ## Layout
 
-<p align="center"><b>Web page</b></p>
  
-![Biscoito](https://github.com/DaianeM/assets/blob/main/fortune-cookie.png)
+<img src="https://github.com/DaianeM/assets/blob/main/fortune-cookie.png" width="700px"><br>
