@@ -5,5 +5,4 @@
 
 ## Layout
 
- 
 <img src="https://github.com/DaianeM/assets/blob/main/fortune-cookie.png" width="600px"><br>
